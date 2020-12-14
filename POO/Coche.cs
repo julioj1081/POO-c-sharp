@@ -34,7 +34,7 @@ namespace POO
         //sirve para mostrar la informacion del objeto
         public override string ToString()
         {
-            return "Marca"+Marca+", Modelo:"+Modelo + ", Con un precio de "+Precio;
+            return "id: "+id+" Marca: "+Marca+", Modelo: "+Modelo + " kM: "+Km+ ", Con un precio de: "+Precio;
         }
     }
 }
