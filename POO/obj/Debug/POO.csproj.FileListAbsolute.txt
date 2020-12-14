@@ -1,0 +1,7 @@
+C:\Users\julio\source\repos\POO\POO\bin\Debug\POO.exe.config
+C:\Users\julio\source\repos\POO\POO\bin\Debug\POO.exe
+C:\Users\julio\source\repos\POO\POO\bin\Debug\POO.pdb
+C:\Users\julio\source\repos\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\julio\source\repos\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\POO\POO\obj\Debug\POO.exe
+C:\Users\julio\source\repos\POO\POO\obj\Debug\POO.pdb
